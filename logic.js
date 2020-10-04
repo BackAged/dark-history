@@ -44,7 +44,7 @@ const renderList = function (listData) {
     let naughty = document.getElementById("naughty")
 
     if (listData.length > 0) {
-        naughty.innerHTML = "Oh you haven very naughty!, found these and deleting ...."
+        naughty.innerHTML = "Oh you have been very naughty!, found these and deleting ...."
     } else {
         naughty.innerHTML = "you are clean!!"
     }
