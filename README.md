@@ -1,6 +1,6 @@
 # dark-history
 
-### Deletee chrome history by domain name
+### Delete chrome history by domain name
 
 ![GitHub Logo](/screenshot/1.png)
 
