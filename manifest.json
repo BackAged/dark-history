@@ -1,0 +1,17 @@
+{
+    "name": "Delete dark history",
+    "version": "1.0",
+    "description": "delete all those history by simply typing the domain name",
+    "manifest_version": 2,
+    "permissions": [
+        "history",
+        "declarativeContent"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "index.html"
+    }
+  }
